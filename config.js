@@ -1,4 +1,3 @@
-// API Configuration — update this to point to your backend
-const API_BASE = '';  // '' = same origin (for proxied setup)
-// Or set to your tunnel URL:
-// const API_BASE = 'https://gamma-technical-examined-history.trycloudflare.com';
+// API Configuration — point to your AmbientBot backend
+// Currently using trycloudflare tunnel (expires, refresh periodically)
+const API_BASE = 'https://movie-nec-instructor-longer.trycloudflare.com';
