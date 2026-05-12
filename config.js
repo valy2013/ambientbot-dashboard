@@ -1,2 +1,2 @@
 // API Configuration — point to your AmbientBot backend
-const API_BASE = 'https://comics-weblog-shorter-gage.trycloudflare.com';
+const API_BASE = 'https://making-blue-desperate-thirty.trycloudflare.com';
